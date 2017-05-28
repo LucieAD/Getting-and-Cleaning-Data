@@ -27,7 +27,7 @@ The dataset includes the following files:
 
 - ‘run_analysis.R’: Script which replicates the analysis steps that were taken to transform the original files into the datset2 file
 
-- ‘dataset2.txt’: Textfile containing the data: 2 ID columns, subject and activity, and 66 variable columns as described in the codebook
+- ‘dataset2.txt’: Textfile containing the data: 2 ID columns, subject and activity, and 66 variable columns as described in the codebook. This file can be read into R using the "read.table" command with "header=TRUE".
 
 
 License:
