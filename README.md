@@ -29,8 +29,6 @@ The following procedures were performed on the original data to obtain datasets 
 4. Labelling variables with descriptive names (dataset1) 
 5. Creation of a second independent dataset containing the mean of each variable in dataset1 for each subject and activity (dataset2)
 
-(There should be a sentence about units here,but I could’t find anything in the original dataset. I suspect acceleration might be m/s^2, velocity m/s and all Fourier-transformed variables might be unitless.)
-
 Records provided for final output (dataset2)
 ============================================
 
